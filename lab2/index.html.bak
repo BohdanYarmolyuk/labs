@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel='stylesheet' href='style.css'>
+        <title>Автосервіс</title>
+    </head>
+    <body>
+        <div class='header'>
+            <div class='container'>
+            <div class='header-line'>
+                <div class='header-logo'>
+                    <img src="LOGO.jpg" atl="">
+                </div>
+            <div class='menu'>
+                <li><a class='nav-items' href="@">Послуги</a>
+                <ul>
+                    <li><a href="#">Повна Діагностика</a></li>
+                    <li><a href="#">Послуги Автоелектрика</a></li>
+                    <li><a href="#">Планове ТО</a></li>
+                       </ul>
+                    </li>
+                   <li><a class='nav-items' href="@">Контакти</a>
+                <ul>
+                    <li><a href="#">TEST4</a></li>
+                    <li><a href="#">TEST5</a></li>
+                    <li><a href="#">TEST6</a></li>
+                </ul>
+                </li>
+                    <li><a class='nav-items' href="@">Ціни</a>
+                <ul>
+                    <li><a href="#">TEST10</a></li>
+                    <li><a href="#">TEST11</a></li>
+                    <li><a href="#">TEST12</a></li>
+                </ul>
+                </li>
+            </div>
+                <div class='location'>
+                    <div class='number'>
+                        <div class 'location image'>
+                            <img src="LOC.png" alt="">
+                        </div>
+                        <div class 'location-text'>
+                             <a class='location_index' href="@">вул.Сагайдачного 5</a>
+                          </div>
+                        </div>
+                       
+                    </div>
+
+                
+                <div class='btn'>
+                 +(38)066-665-55-55<br><br><a class='button' href="@">Онлайн консультація</a>
+                     
+                </div>
+            </div>
+            </div>
+                    <div class='header-title'>
+                        Чому нам довіряють:<br><br> 
+                </div>
+            <div class='down'>
+                <img src="обладання.jpg" alt="">
+                <a class='equipment' href="@">Сучасне<br>обладанання</a>
+                <img src="professional.jpg" alt="">
+                <a class='professional' href="@">Першокласні<br>спеціалісти</a>
+                <img src="сервіс.jpg" alt="">
+                <a class='services' href="@">Великий спектр<br>надання послуг</a>
+            </div>
+        </div>
+        
+    </body>
+    </html>
